@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "com.bayviewglen.zork.test",
+            "projectName": "Zork"
+        }
+    ]
+}
